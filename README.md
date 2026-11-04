@@ -17,7 +17,7 @@ All templates use TypeScript, pnpm, Zod, Prettier and Vitest. Versions were veri
 ## Quick start
 
 ```bash
-git clone git@github.com:MohamedABBJ/web-starter.git
+git clone git@github.com:MohamedBadwan/web-starter.git
 cd web-starter
 node scripts/new-project.mjs frontend ../my-new-app
 ```
@@ -25,7 +25,7 @@ node scripts/new-project.mjs frontend ../my-new-app
 Or copy a single template without cloning (public repos only):
 
 ```bash
-npx degit MohamedABBJ/web-starter/projects/frontend my-new-app
+npx degit MohamedBadwan/web-starter/projects/frontend my-new-app
 ```
 
 Then:
